@@ -6,10 +6,19 @@ created_at: "2024-03-20"
 ---
 
 # 6/4 - Started project
-time spent: 1 hour
+time spent: 2 hours
 
 Looking online for inspiration/advice!
 * r/MechanicalKeyboards, r/ErgoMechKeyboards
 * https://www.keyboard.university/100-courses
 
-wip
+Materials
+* Kailh Choc low profile switches/keycaps
+  * [https://keeb.io/products/kailh-choc-low-profile-switches-v1?variant=40343496228958](https://keeb.io/collections/low-profile-choc?srsltid=AfmBOormzYB7J0lcD82984ZFZuBkuCTdCO0rUvQoWA8rn4cxV5GyzAOq)
+* Raspberry Pi Pico MCU
+
+Possible features to look into?
+* 75% or 65% layout?
+* Bluetooth
+ 
+Still a work in progress. I need to figure out the keyboard layout & start working on the PCB schematic next.
