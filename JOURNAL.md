@@ -2,7 +2,7 @@
 title: "Your Project Name"
 author: "jennie"
 description: "low profile keyboard"
-created_at: "2024-03-20"
+created_at: "2025-06-05"
 ---
 
 # 6/4 - Started project
@@ -21,4 +21,4 @@ Possible features to look into?
 * 75% or 65% layout?
 * Bluetooth
  
-Still a work in progress. I need to figure out the keyboard layout & start working on the PCB schematic next.
+Still a work in progress. Next time I need to figure out the keyboard layout & start working on the PCB schematic.
