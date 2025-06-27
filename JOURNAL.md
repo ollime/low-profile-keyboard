@@ -31,6 +31,13 @@ I used https://www.keyboard-layout-editor.com/#/ to create a reference for creat
 
 Since I went with a staggered layout, I used https://www.keyboard.university/100-courses/keyboard-sizes-layouts-gdeby to help find common keycap sizes, but I will likely have to make changes to this later when I find a keycap set. I saved the .json file so I can modify the layout later.
 
+# of switches needed: 70
+row 0: 15
+row 1: 16
+row 2: 14
+row 3: 14
+row 4: 11
+
 layout references\
 https://kbdfansmds-com.myshopify.com/products/tada68-mechanical-keyboard-65-iso-layout \
 https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Flbyp0emddot81.jpg\
