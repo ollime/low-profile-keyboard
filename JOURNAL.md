@@ -22,17 +22,15 @@ Bluetooth
 Still a work in progress. Next time I need to figure out the keyboard layout & start working on the PCB schematic.
 
 
-## 6/9 Creating the layout and schematic
-time spent: 1 hour
+## 6/26 Creating the layout
+time spent: 2 hour
 
-wip
+I used https://www.keyboard-layout-editor.com/#/ to create a reference for creating the schematic:
 
-layout\
+![Initial keyboard layout](layout-1.png)
+
+Since I went with a staggered layout, I used https://www.keyboard.university/100-courses/keyboard-sizes-layouts-gdeby to help find common keycap sizes, but I will likely have to make changes to this later when I find a keycap set. I saved the .json file so I can modify the layout later.
+
+layout references\
 https://kbdfansmds-com.myshopify.com/products/tada68-mechanical-keyboard-65-iso-layout \
-https://www.keyboard-layout-editor.com/#/
-
-`, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, -, =, backspace, escape\
-tab, q, w, e, r, t, y, u, i, o, p, /[, /] , \, delete\
-caps, a, s, d, f, g, h, j, k, l, ;, ', enter, volume up\
-shift, z, x, c, v, b, n, m, ,, ., /, shift, arrow up, volume down\
-ctrl, fn, windows, alt, space, alt, ctrl, arrow left, arrow down, arrow right
+https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Flbyp0emddot81.jpg\
