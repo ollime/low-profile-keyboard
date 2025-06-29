@@ -23,7 +23,7 @@ Still a work in progress. Next time I need to figure out the keyboard layout & s
 
 
 ## 6/26 Creating the layout
-time spent: 2 hour
+time spent: 2 hours
 
 I used https://www.keyboard-layout-editor.com/#/ to create a reference for creating the schematic:
 
@@ -44,3 +44,7 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Flbyp0emddot81.jpg
 
 ## 6/27
 time spent: 
+
+Footprints\
+https://github.com/daprice/keyswitches.pretty/tree/master\
+https://github.com/ncarandini/KiCad-RP-Pico
